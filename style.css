@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+}
+
+.colours{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+.red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin: 5px;
+}
+.yellow{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.orange{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin: 5px;
+}
+.green{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.flash{
+    opacity: 50%;
+}
+
+.userflash{
+    background-color: black;
+    opacity: 50%;
+}

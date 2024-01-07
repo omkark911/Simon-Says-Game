@@ -1,6 +1,7 @@
 # Simon Says Game
 
 Welcome to the Simon Says Game project! This simple web-based game tests your memory and reaction skills as you try to follow and repeat a sequence of colored buttons. Press any key to start the game and see how far you can go!
+![game](Game%20overiew.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
